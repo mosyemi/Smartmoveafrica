@@ -37,6 +37,40 @@ applications, data analytics, notifications, and AI.
 - Congestion analysis
 
 ### Smart Matatu and Bus Tracking
+  
+## Git Usage
+
+### Initial Setup
+
+1. Clone the repository:
+        ```sh
+        git clone git@github.com:mosyemi/Smartmoveafrica.git
+        ```
+2. Install dependencies:
+        ```sh
+        flutter pub get
+        ```
+
+### Making Changes
+
+1. Stage your changes:
+        ```sh
+        git add .
+        ```
+2. Commit your changes:
+        ```sh
+        git commit -m "Describe your changes"
+        ```
+3. Push to GitHub:
+        ```sh
+        git push
+        ```
+
+### Pulling Latest Changes
+
+```sh
+git pull
+```
 
 - Live vehicle tracking
 - Route monitoring

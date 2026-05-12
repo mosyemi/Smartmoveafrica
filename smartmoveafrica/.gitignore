@@ -43,3 +43,26 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# macOS
+.DS_Store
+Icon?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# VS Code
+.vscode/
+
+# Flutter generated
+flutter_export_environment.sh
+generated_plugin_registrant.dart
+
+# Crashlytics
+crashlytics-build.properties
